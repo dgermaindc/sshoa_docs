@@ -1,8 +1,6 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SSHOA Director's Guide
+description: A starter guide for HOA directors
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/dgermaindc/sshoa_docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
