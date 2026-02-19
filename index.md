@@ -1,29 +1,16 @@
 ---
-title: Home
+title: Cadence & Key Dates
 layout: home
 ---
 
----
-updated: 2026-02-19 19:26:56Z
-created: 2026-02-19 16:50:30Z
-latitude: 38.78928010
-longitude: -77.18720360
-altitude: 0.0000
----
-
-* * *
-
-## title: Home
-
-layout: home
-
-&nbsp;
+# Operating Cadence & Key Dates
 
 last updated: 19 Feb 2026
+* * *
 
-# Required Meetings
+# I. Required Meetings
 
-## Board of Directors
+## A. Board of Directors
 
 The By-Laws of the SSHOA in Article VII Meetings of Directors, in Section 1 specifies that regular meetings of the Board of Directors shall be held at least as often as quarterly, with~~out~~ notice, at such place and hour as may be fixed from time to time by resolution of the Board. Topics covered in a Board meeting can be seen by looking at minutes of Board Meetings listed in the SSHOA web site.
 
@@ -35,23 +22,15 @@ Q3: Nominally mid July
 
 Q4: Nominally mid October
 
-## **General Meeting for all Members**
+## B. General Meeting for all Members
 
 The By-Laws of the SSHOA in Article X Meetings of Members specifies that an annual meeting of all members shall be held once per year. Past presentations are listed in the SSHOA web site.
 
 Nominally mid September.
 
-&nbsp;
+* * *
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# Operating Cadence and Key Dates
+# II. Operating Cadence and Key Dates
 
 Normal business for the board can be accomplished in it's four scheduled quarterly meetings with non-planned activities/business handled via email.
 
@@ -60,11 +39,8 @@ Normal business for the board can be accomplished in it's four scheduled quarter
 - First meeting of the new board of directors.
 - Officers are elected
     - President
-        
     - Vice-President
-        
     - Secretary
-        
     - Treasurer
         
 - Key dates are set for the upcoming year.
@@ -77,24 +53,6 @@ Normal business for the board can be accomplished in it's four scheduled quarter
     - Q4 Board Meeting
 
 *While we should do our best to keep dates from changing, life happens and sometimes changes are needed  meetings/events should have a "(tbc)\*", where the \* "please check the SSHOA Website for updated dates and times"*
-
-> Template for Key Dates to be set
-> 
-> Q1 Board Meeting:
-> 
-> Q2 Board Meeting:
-> 
-> Annual Dues letter mailed to homeowners: End of April - beginning of May
-> 
-> Spring Cleanup:
-> 
-> Deadline for payment of annual dues: 31 May
-> 
-> Q3 Board Meeting:
-> 
-> Annual General Membership Meeting:  September  (tbc)\*
-> 
-> Q4 Board Meeting:
 
 ## Q1 - Board of Director’s (BoD) Meeting
 
