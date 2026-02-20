@@ -1,5 +1,5 @@
 ---
-title:Email Management
+title: Email Management
 layout: home
 ---
 
